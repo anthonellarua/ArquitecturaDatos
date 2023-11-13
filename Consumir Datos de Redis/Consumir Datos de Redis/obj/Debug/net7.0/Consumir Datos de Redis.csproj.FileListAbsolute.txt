@@ -1,0 +1,21 @@
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Consumir Datos de Redis.exe
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Consumir Datos de Redis.deps.json
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Consumir Datos de Redis.runtimeconfig.json
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Consumir Datos de Redis.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Consumir Datos de Redis.pdb
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\StackExchange.Redis.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.csproj.AssemblyReference.cache
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.GeneratedMSBuildEditorConfig.editorconfig
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.AssemblyInfoInputs.cache
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.AssemblyInfo.cs
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.csproj.CoreCompileInputs.cache
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.csproj.CopyComplete
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\refint\Consumir Datos de Redis.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.pdb
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\Consumir Datos de Redis.genruntimeconfig.cache
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\obj\Debug\net7.0\ref\Consumir Datos de Redis.dll
+D:\archivos\tecsup\semestre_6\desarrollo de aplicaciones empresariales\Lab10\Consumir Datos de Redis\Consumir Datos de Redis\bin\Debug\net7.0\Npgsql.dll

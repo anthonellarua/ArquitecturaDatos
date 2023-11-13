@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\archivos\\tecsup\\semestre_6\\desarrollo de aplicaciones empresariales\\Lab10\\Consumir Datos de Redis\\Consumir Datos de Redis\\Consumir Datos de Redis.csproj": {}
+  },
+  "projects": {
+    "D:\\archivos\\tecsup\\semestre_6\\desarrollo de aplicaciones empresariales\\Lab10\\Consumir Datos de Redis\\Consumir Datos de Redis\\Consumir Datos de Redis.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\archivos\\tecsup\\semestre_6\\desarrollo de aplicaciones empresariales\\Lab10\\Consumir Datos de Redis\\Consumir Datos de Redis\\Consumir Datos de Redis.csproj",
+        "projectName": "Consumir Datos de Redis",
+        "projectPath": "D:\\archivos\\tecsup\\semestre_6\\desarrollo de aplicaciones empresariales\\Lab10\\Consumir Datos de Redis\\Consumir Datos de Redis\\Consumir Datos de Redis.csproj",
+        "packagesPath": "C:\\Users\\anthonellarua\\.nuget\\packages\\",
+        "outputPath": "D:\\archivos\\tecsup\\semestre_6\\desarrollo de aplicaciones empresariales\\Lab10\\Consumir Datos de Redis\\Consumir Datos de Redis\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anthonellarua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

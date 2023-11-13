@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUWaWtaSI6Mfy65QfVujpVn9xYgGleYJ7BnMpsIP1Khl7utHpJsjJPEV7Vq06R2JAmv6+0przQ3ftUaCbi3hNA==",
+  "success": true,
+  "projectFilePath": "D:\\archivos\\tecsup\\semestre_6\\desarrollo de aplicaciones empresariales\\Lab10\\Consumir Datos de Redis\\Consumir Datos de Redis\\Consumir Datos de Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anthonellarua\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\anthonellarua\\.nuget\\packages\\npgsql\\7.0.6\\npgsql.7.0.6.nupkg.sha512",
+    "C:\\Users\\anthonellarua\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\anthonellarua\\.nuget\\packages\\stackexchange.redis\\2.7.4\\stackexchange.redis.2.7.4.nupkg.sha512",
+    "C:\\Users\\anthonellarua\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
